@@ -1,0 +1,2 @@
+from .CCTRNet import CCTRNet
+
